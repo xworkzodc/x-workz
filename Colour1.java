@@ -1,10 +1,10 @@
 public class Colour1{	
 	public static void main(String[] politicians)
 	{
+		//java Colour1 Kar TN Goa Kerala
 		System.out.println("JVM invokes main");		
-		String[] statesArray={"Karnataka","Kerala","Jharkhand","Maharastra","Gujarat","Goa","Madhya Pradesh","Manipur","Odissa","Panjab","TamilNadu",
-		"Rajasthan","Telangana","Haryana","Assam"};
-		states(statesArray);	
+		
+		states(politicians);	
 		
 		System.out.println("exit main ");
 	}		
